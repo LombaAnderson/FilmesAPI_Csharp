@@ -15,7 +15,7 @@ de dados e realizada a conexão da API com o banco.
 
 # Como executar o projeto
 
-## Foi utilizado a IDE Visual Studio
+# Foi utilizada a IDE Visual Studio
 
 # Clonar repositório
 git clone https://github.com/lombaAnderson/FilmesAPI_Csharp
